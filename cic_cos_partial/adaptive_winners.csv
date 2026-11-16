@@ -1,0 +1,16 @@
+partition,aggregator,winner,seeds
+dir0.1,cosdrop,boostn,4
+dir0.1,cosdrop,blend8,1
+dir0.1,cosw,boostn,4
+dir0.1,cosw,revblend,1
+dir0.5,cosdrop,boostn,3
+dir0.5,cosdrop,revblend,1
+dir0.5,cosdrop,revn,1
+dir0.5,cosw,boostn,2
+dir0.5,cosw,revn,2
+dir0.5,cosw,revblend,1
+iid,cosdrop,boostn,5
+iid,cosw,revn,2
+iid,cosw,blend8,1
+iid,cosw,boostn,1
+iid,cosw,revblend,1

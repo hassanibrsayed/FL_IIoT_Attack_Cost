@@ -1,0 +1,12 @@
+partition,aggregator,seed,cost,unresolved,last_m,dataset,setting
+dir0.1,median,2,6,True,2,CIC-IoT2023,drop 0.15
+dir0.5,median,8,6,True,4,CIC-IoT2023,drop 0.15
+dir0.5,trimmed,9,6,True,3,CIC-IoT2023,drop 0.15
+dir0.1,median,2,6,True,2,CIC-IoT2023,drop 0.20
+dir0.5,fedavg,9,6,True,2,CIC-IoT2023,drop 0.20
+dir0.5,median,0,6,True,4,CIC-IoT2023,drop 0.20
+dir0.5,median,5,6,True,3,CIC-IoT2023,drop 0.20
+dir0.5,median,7,6,True,4,CIC-IoT2023,drop 0.20
+dir0.5,median,8,6,True,4,CIC-IoT2023,drop 0.20
+dir0.5,median,9,6,True,4,CIC-IoT2023,drop 0.20
+dir0.5,trimmed,9,6,True,3,CIC-IoT2023,drop 0.20

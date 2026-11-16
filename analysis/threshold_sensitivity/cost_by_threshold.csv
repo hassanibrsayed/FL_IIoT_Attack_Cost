@@ -1,0 +1,91 @@
+dataset,setting,drop,floor,partition,aggregator,n,cost,median,n_unresolved
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,iid,fedavg,10,1 [1..1],1.0,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,iid,median,10,5 [4..5],5.0,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,iid,trimmed,10,3 [3..3],3.0,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,dir0.5,fedavg,10,1 [1..2],1.0,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,dir0.5,median,10,2 [1..4],2.0,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,dir0.5,trimmed,10,2 [1..3],2.0,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,dir0.1,fedavg,10,1 [1..3],1.0,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,dir0.1,median,10,1.5 [1..3],1.5,0
+Edge-IIoTset,"drop 0.05, recall floor 0.8",0.05,0.8,dir0.1,trimmed,10,1.5 [1..3],1.5,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,iid,fedavg,10,1 [1..1],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,iid,median,10,5 [5..5],5.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,iid,trimmed,10,4 [3..4],4.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,dir0.5,fedavg,10,1 [1..2],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,dir0.5,median,10,3 [2..4],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,dir0.5,trimmed,10,3 [2..3],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,dir0.1,fedavg,10,1 [1..3],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,dir0.1,median,10,2.5 [1..3],2.5,0
+Edge-IIoTset,"drop 0.10, recall floor 0.8",0.1,0.8,dir0.1,trimmed,10,2 [1..3],2.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,iid,fedavg,10,1 [1..1],1.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,iid,median,10,5 [5..5],5.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,iid,trimmed,10,4 [4..4],4.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,dir0.5,fedavg,10,1 [1..2],1.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,dir0.5,median,10,4 [3..4],4.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,dir0.5,trimmed,10,3 [2..3],3.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,dir0.1,fedavg,10,1 [1..3],1.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,dir0.1,median,10,3 [2..3],3.0,0
+Edge-IIoTset,"drop 0.15, recall floor 0.8",0.15,0.8,dir0.1,trimmed,10,2.5 [2..3],2.5,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,iid,fedavg,10,1 [1..1],1.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,iid,median,10,5 [5..5],5.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,iid,trimmed,10,4 [4..4],4.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,dir0.5,fedavg,10,1 [1..4],1.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,dir0.5,median,10,4 [3..4],4.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,dir0.5,trimmed,10,3 [3..3],3.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,dir0.1,fedavg,10,1 [1..4],1.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,dir0.1,median,10,3 [2..3],3.0,0
+Edge-IIoTset,"drop 0.20, recall floor 0.8",0.2,0.8,dir0.1,trimmed,10,3 [2..3],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,iid,fedavg,10,1 [1..1],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,iid,median,10,5 [5..5],5.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,iid,trimmed,10,4 [3..4],4.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,dir0.5,fedavg,10,1 [1..2],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,dir0.5,median,10,3 [2..4],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,dir0.5,trimmed,10,3 [2..3],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,dir0.1,fedavg,10,1 [1..3],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,dir0.1,median,10,3 [1..3],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.7",0.1,0.7,dir0.1,trimmed,10,2 [1..3],2.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,iid,fedavg,10,1 [1..1],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,iid,median,10,5 [5..5],5.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,iid,trimmed,10,4 [3..4],4.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,dir0.5,fedavg,10,1 [1..2],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,dir0.5,median,10,3 [2..4],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,dir0.5,trimmed,10,3 [2..3],3.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,dir0.1,fedavg,10,1 [1..3],1.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,dir0.1,median,10,2 [1..3],2.0,0
+Edge-IIoTset,"drop 0.10, recall floor 0.9",0.1,0.9,dir0.1,trimmed,10,2 [1..3],2.0,0
+CIC-IoT2023,drop 0.05,0.05,,iid,fedavg,10,1 [1..1],1.0,0
+CIC-IoT2023,drop 0.05,0.05,,iid,median,10,5 [5..5],5.0,0
+CIC-IoT2023,drop 0.05,0.05,,iid,trimmed,10,3 [3..3],3.0,0
+CIC-IoT2023,drop 0.05,0.05,,dir0.5,fedavg,10,1 [1..1],1.0,0
+CIC-IoT2023,drop 0.05,0.05,,dir0.5,median,10,3 [2..4],3.0,0
+CIC-IoT2023,drop 0.05,0.05,,dir0.5,trimmed,10,3 [1..3],3.0,0
+CIC-IoT2023,drop 0.05,0.05,,dir0.1,fedavg,10,1 [1..1],1.0,0
+CIC-IoT2023,drop 0.05,0.05,,dir0.1,median,10,2 [1..3],2.0,0
+CIC-IoT2023,drop 0.05,0.05,,dir0.1,trimmed,10,1.5 [1..3],1.5,0
+CIC-IoT2023,drop 0.10,0.1,,iid,fedavg,10,1 [1..1],1.0,0
+CIC-IoT2023,drop 0.10,0.1,,iid,median,10,5 [5..5],5.0,0
+CIC-IoT2023,drop 0.10,0.1,,iid,trimmed,10,4 [3..4],4.0,0
+CIC-IoT2023,drop 0.10,0.1,,dir0.5,fedavg,10,1 [1..1],1.0,0
+CIC-IoT2023,drop 0.10,0.1,,dir0.5,median,10,3 [2..4],3.0,0
+CIC-IoT2023,drop 0.10,0.1,,dir0.5,trimmed,10,3 [2..3],3.0,0
+CIC-IoT2023,drop 0.10,0.1,,dir0.1,fedavg,10,1 [1..2],1.0,0
+CIC-IoT2023,drop 0.10,0.1,,dir0.1,median,10,2 [1..3],2.0,0
+CIC-IoT2023,drop 0.10,0.1,,dir0.1,trimmed,10,2 [1..3],2.0,0
+CIC-IoT2023,drop 0.15,0.15,,iid,fedavg,10,1 [1..1],1.0,0
+CIC-IoT2023,drop 0.15,0.15,,iid,median,10,5 [5..5],5.0,0
+CIC-IoT2023,drop 0.15,0.15,,iid,trimmed,10,4 [4..4],4.0,0
+CIC-IoT2023,drop 0.15,0.15,,dir0.5,fedavg,10,1 [1..2],1.0,0
+CIC-IoT2023,drop 0.15,0.15,,dir0.5,median,10,4 [2..>5],4.0,1
+CIC-IoT2023,drop 0.15,0.15,,dir0.5,trimmed,10,3 [2..>5],3.0,1
+CIC-IoT2023,drop 0.15,0.15,,dir0.1,fedavg,10,1 [1..2],1.0,0
+CIC-IoT2023,drop 0.15,0.15,,dir0.1,median,10,3 [1..>5],3.0,1
+CIC-IoT2023,drop 0.15,0.15,,dir0.1,trimmed,10,3 [2..3],3.0,0
+CIC-IoT2023,drop 0.20,0.2,,iid,fedavg,10,1 [1..1],1.0,0
+CIC-IoT2023,drop 0.20,0.2,,iid,median,10,5 [5..5],5.0,0
+CIC-IoT2023,drop 0.20,0.2,,iid,trimmed,10,4 [4..4],4.0,0
+CIC-IoT2023,drop 0.20,0.2,,dir0.5,fedavg,10,1 [1..>5],1.0,1
+CIC-IoT2023,drop 0.20,0.2,,dir0.5,median,10,5 [2..>5],5.0,5
+CIC-IoT2023,drop 0.20,0.2,,dir0.5,trimmed,10,3 [3..>5],3.0,1
+CIC-IoT2023,drop 0.20,0.2,,dir0.1,fedavg,10,1 [1..2],1.0,0
+CIC-IoT2023,drop 0.20,0.2,,dir0.1,median,10,3 [1..>5],3.0,1
+CIC-IoT2023,drop 0.20,0.2,,dir0.1,trimmed,10,3 [2..3],3.0,0

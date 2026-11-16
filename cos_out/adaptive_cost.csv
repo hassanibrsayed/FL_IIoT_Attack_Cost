@@ -1,0 +1,7 @@
+partition,aggregator,n_seeds,cost_recall,cost_f1,cost_any
+dir0.1,cosdrop,5,3 [3..4],3 [3..4],3 [3..4]
+dir0.1,cosw,5,3 [2..4],3 [2..4],3 [2..4]
+dir0.5,cosdrop,5,5 [5..5],4 [1..4],4 [1..4]
+dir0.5,cosw,5,5 [4..5],3 [2..5],3 [2..5]
+iid,cosdrop,5,5 [5..>5],5 [5..5],5 [5..5]
+iid,cosw,5,5 [5..5],5 [5..5],5 [5..5]

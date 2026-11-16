@@ -1,0 +1,22 @@
+{
+ "edge": {
+  "rows": 88059,
+  "features": 46,
+  "classes": 15,
+  "normal": 6666,
+  "train": 61638,
+  "test": 26421,
+  "min_class": 400,
+  "max_class": 6666
+ },
+ "cic": {
+  "rows": 97626,
+  "features": 39,
+  "classes": 34,
+  "normal": 2941,
+  "train": 68315,
+  "test": 29311,
+  "min_class": 1252,
+  "max_class": 2941
+ }
+}

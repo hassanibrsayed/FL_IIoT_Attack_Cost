@@ -1,0 +1,10 @@
+partition,aggregator,n_seeds,cost_recall,cost_f1,cost_any
+dir0.1,bucket_cclip,5,3 [2..>5],2 [2..2],2 [2..2]
+dir0.1,bucket_median,5,5 [1..>5],2 [2..2],2 [1..2]
+dir0.1,cclip,5,3 [2..>5],3 [2..3],3 [2..3]
+dir0.5,bucket_cclip,5,3 [2..3],3 [3..3],3 [2..3]
+dir0.5,bucket_median,5,3 [2..3],3 [3..3],3 [2..3]
+dir0.5,cclip,5,4 [4..5],4 [4..4],4 [4..4]
+iid,bucket_cclip,5,3 [3..3],3 [3..3],3 [3..3]
+iid,bucket_median,5,3 [3..3],3 [3..3],3 [3..3]
+iid,cclip,5,5 [5..5],5 [5..5],5 [5..5]

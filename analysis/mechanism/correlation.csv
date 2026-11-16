@@ -1,0 +1,13 @@
+dataset,aggregator,metric,n,spearman,perm_p,within_partition
+Edge-IIoTset,median,rel_spread_last10,30,-0.743,9.999000099990002e-05,iid: +nan; dir0.5: -0.18; dir0.1: -0.23
+Edge-IIoTset,median,pair_cos_last10,30,0.765,9.999000099990002e-05,iid: +nan; dir0.5: +0.13; dir0.1: +0.34
+Edge-IIoTset,median,coord_snr_last10,30,-0.654,0.00019998000199980003,iid: +nan; dir0.5: -0.18; dir0.1: +0.01
+Edge-IIoTset,trimmed,rel_spread_last10,30,-0.526,0.004199580041995801,iid: +0.41; dir0.5: +0.17; dir0.1: -0.33
+Edge-IIoTset,trimmed,pair_cos_last10,30,0.556,0.0010998900109989002,iid: -0.41; dir0.5: -0.41; dir0.1: +0.43
+Edge-IIoTset,trimmed,coord_snr_last10,30,-0.515,0.004199580041995801,iid: +0.17; dir0.5: +0.52; dir0.1: -0.30
+CIC-IoT2023,median,rel_spread_last10,30,-0.671,0.00019998000199980003,iid: +nan; dir0.5: +0.47; dir0.1: -0.63
+CIC-IoT2023,median,pair_cos_last10,30,0.716,0.00019998000199980003,iid: +nan; dir0.5: -0.31; dir0.1: +0.63
+CIC-IoT2023,median,coord_snr_last10,30,-0.685,0.00019998000199980003,iid: +nan; dir0.5: +0.23; dir0.1: -0.31
+CIC-IoT2023,trimmed,rel_spread_last10,30,-0.527,0.0028997100289971,iid: -0.26; dir0.5: -0.29; dir0.1: -0.46
+CIC-IoT2023,trimmed,pair_cos_last10,30,0.537,0.0023997600239976003,iid: +0.26; dir0.5: +0.29; dir0.1: +0.57
+CIC-IoT2023,trimmed,coord_snr_last10,30,-0.707,9.999000099990002e-05,iid: -0.26; dir0.5: +0.17; dir0.1: -0.30

@@ -1,0 +1,16 @@
+partition,aggregator,winner,seeds
+dir0.1,fedavg_clip,revn,4
+dir0.1,fedavg_clip,boostn,1
+dir0.1,median_clip,lie1,2
+dir0.1,median_clip,lie25,2
+dir0.1,median_clip,revn,1
+dir0.1,trimmed_clip,boostn,3
+dir0.1,trimmed_clip,lie1,1
+dir0.1,trimmed_clip,lie25,1
+dir0.5,fedavg_clip,revn,5
+dir0.5,median_clip,lie25,3
+dir0.5,median_clip,revn,2
+dir0.5,trimmed_clip,revn,5
+iid,fedavg_clip,revn,5
+iid,median_clip,revn,5
+iid,trimmed_clip,revn,5
